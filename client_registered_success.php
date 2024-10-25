@@ -170,7 +170,7 @@ $conn->close();
         <hr>
         <div class="row">
             <div class="col-sm-6">
-                <h5>© 2018 Mwavuli Safaris</h5>
+                <h5>© 2024 Mwavuli Safaris</h5>
             </div>
         </div>
     </div>

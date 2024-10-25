@@ -99,7 +99,7 @@ $conn = Connect();
                         <a href="index.php">Home</a>
                     </li>
                     <li>
-                        <a href="clientlogin.php">Client</a>
+                        <a href="clientlogin.php">Admin</a>
                     </li>
                     <li>
                         <a href="customerlogin.php">Customer</a>
@@ -227,7 +227,7 @@ $conn = Connect();
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2018 Mwavuli Safaris</h5>
+                    <h5>© 2024 Mwavuli Safaris</h5>
                 </div>
                 <div class="col-sm-6 social-icons">
                     <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -240,7 +240,7 @@ $conn = Connect();
     </footer>
     <script>
         function myMap() {
-            myCenter = new google.maps.LatLng(25.614744, 85.128489);
+            myCenter = new google.maps.LatLng(-1.286389, 36.817223);
             var mapOptions = {
                 center: myCenter,
                 zoom: 12,
