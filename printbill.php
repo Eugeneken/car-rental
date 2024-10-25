@@ -26,7 +26,7 @@ $conn = Connect();
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   PATNA CAR RENTAL </a>
+                   Mwavuli Safaris </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -180,7 +180,7 @@ else {
     </div>
     <br>
 
-    <h2 class="text-center"> Thank you for visiting Patna Car Rental! We wish you have a safe ride. </h2>
+    <h2 class="text-center"> Thank you for visiting Mwavuli Safaris! We wish you have a safe ride. </h2>
 
     <h3 class="text-center"> <strong>Your Order Number:</strong> <span style="color: blue;"><?php echo "$id"; ?></span> </h3>
 
@@ -201,7 +201,7 @@ else {
                 <br>
                 <h4> <strong>Vehicle Number:</strong> <?php echo $car_nameplate; ?></h4>
                 <br>
-                <h4> <strong>Fare:&nbsp;</strong>  ₹<?php 
+                <h4> <strong>Fare:&nbsp;</strong>  Ksh<?php 
             if($charge_type == "days"){
                     echo ($fare . "/day");
                 } else {
@@ -227,10 +227,10 @@ else {
                     if($extra_days > 0){
                         
                 ?>
-                <h4> <strong>Total Fine:</strong> <label class="text-danger"> ₹<?php echo $total_fine; ?>/- </label> for <?php echo $extra_days;?> extra days.</h4>
+                <h4> <strong>Total Fine:</strong> <label class="text-danger"> Ksh<?php echo $total_fine; ?>/- </label> for <?php echo $extra_days;?> extra days.</h4>
                 <br>
                 <?php } ?>
-                <h4> <strong>Total Amount: </strong> ₹<?php echo $total_amount; ?>/-     </h4>
+                <h4> <strong>Total Amount: </strong> Ksh<?php echo $total_amount; ?>/-     </h4>
                 <br>
             </div>
         </div>
@@ -245,7 +245,7 @@ else {
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2018 Patna Car Rental</h5>
+                    <h5>© 2018 Mwavuli Safaris</h5>
                 </div>
             </div>
         </div>

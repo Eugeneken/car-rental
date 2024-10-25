@@ -25,7 +25,7 @@ $conn = Connect();
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   PATNA CAR RENTAL </a>
+                   Mwavuli Safaris </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -153,7 +153,7 @@ function dateDiff($start, $end) {
 
            <h5> End Date:&nbsp;  <?php echo($rent_end_date);?></h5>
 
-           <h5> Fare:&nbsp;  ₹<?php 
+           <h5> Fare:&nbsp;  Ksh<?php 
             if($charge_type == "days"){
                     echo ($fare . "/day");
                 } else {
@@ -188,7 +188,7 @@ function dateDiff($start, $end) {
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2018 Patna Car Rental</h5>
+                    <h5>© 2018 Mwavuli Safaris</h5>
                 </div>
             </div>
         </div>

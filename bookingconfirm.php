@@ -106,7 +106,7 @@ if(!isset($_SESSION['login_customer'])){
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   PATNA CAR RENTAL </a>
+                   Mwavuli Safaris </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -199,7 +199,7 @@ if(!isset($_SESSION['login_customer'])){
     </div>
     <br>
 
-    <h2 class="text-center"> Thank you for visiting Patna Car Rental! We wish you have a safe ride. </h2>
+    <h2 class="text-center"> Thank you for visiting Mwavuli Safaris! We wish you have a safe ride. </h2>
 
  
 
@@ -226,10 +226,10 @@ if(!isset($_SESSION['login_customer'])){
                 <?php     
                 if($charge_type == "days"){
                 ?>
-                     <h4> <strong>Fare:</strong> ₹<?php echo $fare; ?>/day</h4>
+                     <h4> <strong>Fare:</strong> Ksh<?php echo $fare; ?>/day</h4>
                 <?php } else {
                     ?>
-                    <h4> <strong>Fare:</strong> ₹<?php echo $fare; ?>/km</h4>
+                    <h4> <strong>Fare:</strong> Ksh<?php echo $fare; ?>/km</h4>
 
                 <?php } ?>
 
@@ -268,7 +268,7 @@ if(!isset($_SESSION['login_customer'])){
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   PATNA CAR RENTAL </a>
+                   Mwavuli Safaris </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -365,7 +365,7 @@ if(!isset($_SESSION['login_customer'])){
         <hr>
         <div class="row">
             <div class="col-sm-6">
-                <h5>© 2018 Patna Car Rental</h5>
+                <h5>© 2018 Mwavuli Safaris</h5>
             </div>
         </div>
     </div>

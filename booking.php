@@ -32,7 +32,7 @@ if(!isset($_SESSION['login_customer'])){
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   PATNA CAR RENTAL </a>
+                   Mwavuli Safaris </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -173,12 +173,12 @@ if(!isset($_SESSION['login_customer'])){
                      </div>
                     <div ng-switch-when="ac">
                     <!-- <div class="form-group"> -->
-                <h5>Fare: <?php echo("₹" . $ac_price . "/km and ₹" . $ac_price_per_day . "/day");?><h5>    
+                <h5>Fare: <?php echo("Ksh" . $ac_price . "/km and Ksh" . $ac_price_per_day . "/day");?><h5>    
                 <!-- </div>    -->
                      </div>
                      <div ng-switch-when="non_ac">
                      <!-- <div class="form-group"> -->
-                <h5>Fare: <?php echo("₹" . $non_ac_price . "/km and ₹" . $non_ac_price_per_day . "/day");?><h5>    
+                <h5>Fare: <?php echo("Ksh" . $non_ac_price . "/km and Ksh" . $non_ac_price_per_day . "/day");?><h5>    
                 <!-- </div>   -->
                      </div>
         </div>
@@ -247,7 +247,7 @@ if(!isset($_SESSION['login_customer'])){
         
       </div>
       <div class="col-md-12" style="float: none; margin: 0 auto; text-align: center;">
-            <h6><strong>Kindly Note:</strong> You will be charged <span class="text-danger">₹200/-</span> for each day after the due date.</h6>
+            <h6><strong>Kindly Note:</strong> You will be charged <span class="text-danger">Ksh200/-</span> for each day after the due date.</h6>
         </div>
     </div>
 
@@ -257,7 +257,7 @@ if(!isset($_SESSION['login_customer'])){
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2018 Patna Car Rental</h5>
+                    <h5>© 2018 Mwavuli Safaris</h5>
                 </div>
             </div>
         </div>

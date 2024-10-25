@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="assets/w3css/w3.css">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <title>FAQ | Patna Car Rental</title>
+    <title>FAQ | Mwavuli Safaris</title>
 </head>
 
 <body>
@@ -33,7 +33,7 @@
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="/../Stribon Technologies/index.php">
-                   PATNA CAR RENTAL </a>
+                   Mwavuli Safaris </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -136,7 +136,7 @@
                 <li>
                     <a class="cd-faq-trigger" href="#0">How do I pay for my Rental?</a>
                     <div class="cd-faq-content">
-                        <p>Patna Car Rentals gladly accepts Mastercard and Visa. Personal Checks are also accepted providing you purchase CDW and Theft Protection on your rental.
+                        <p>Mwavuli Safariss gladly accepts Mastercard and Visa. Personal Checks are also accepted providing you purchase CDW and Theft Protection on your rental.
                          At this time we would like to advise that personal checks are not accepted locally.</p>
                     </div>
                     <!-- cd-faq-content -->
@@ -145,7 +145,7 @@
                 <li>
                     <a class="cd-faq-trigger" href="#0">What if i find a better rate for a rental car?</a>
                     <div class="cd-faq-content">
-                        <p>One of the many great things about Patna Car Rental is our rental rates and services are guaranteed to be the very best in the industry. If you come across a lower price from a competitor and the rate is on a comparable vehicle including the same terms, locations, and rental car fees we will be glad to beat the price for you. Please complete our Guaranteed Best Rate form if you have found a better rate with one of our competitors.</div>
+                        <p>One of the many great things about Mwavuli Safaris is our rental rates and services are guaranteed to be the very best in the industry. If you come across a lower price from a competitor and the rate is on a comparable vehicle including the same terms, locations, and rental car fees we will be glad to beat the price for you. Please complete our Guaranteed Best Rate form if you have found a better rate with one of our competitors.</div>
                     <!-- cd-faq-content -->
                 </li>
 
@@ -160,7 +160,7 @@
                 <li>
                     <a class="cd-faq-trigger" href="#0">Is there a fee if i return the car after the due date?</a>
                     <div class="cd-faq-content">
-                        <p>Yes, we charge ₹200/- day after the due date.</p>
+                        <p>Yes, we charge Ksh200/- day after the due date.</p>
                     </div>
                     <!-- cd-faq-content -->
                 </li>
@@ -232,7 +232,7 @@
                 <li>
                     <a class="cd-faq-trigger" href="#0">How can i pay for my chauffeur services?</a>
                     <div class="cd-faq-content">
-                        <p>Patna Car Rental gladly accepts MasterCard, Visa, and checks. We also PayTm.</p>
+                        <p>Mwavuli Safaris gladly accepts MasterCard, Visa, and checks. We also PayTm.</p>
                     </div>
                     <!-- cd-faq-content -->
                 </li>
