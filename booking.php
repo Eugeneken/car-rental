@@ -11,7 +11,7 @@ if(!isset($_SESSION['login_customer'])){
 <head>
     <script type="text/javascript" src="assets/ajs/angular.min.js"> </script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="shortcut icon" type="image/png" href="assets/img/P.png.png">
+<link rel="shortcut icon" type="image/jpeg" href="assets/img/logom.jpeg">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="assets/w3css/w3.css">
