@@ -10,8 +10,8 @@ if(isset($_SESSION['login_client'])){
     <html>
 
     <head>
-        <title> Client Login | Car Rental </title>
-        <link rel="shortcut icon" type="image/png" href="assets/img/P.png.png">
+        <title> Admin Login | Car Rental </title>
+        <link rel="shortcut icon" type="image/jpeg" href="assets/img/logom.jpeg">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
@@ -94,7 +94,7 @@ if(isset($_SESSION['login_client'])){
                                     <a href="index.php">Home</a>
                                 </li>
                                 <li>
-                                    <a href="clientlogin.php">Client</a>
+                                    <a href="clientlogin.php">Admin</a>
                                 </li>
                                 <li>
                                     <a href="customerlogin.php">Customer</a>
